@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/boogaloo</item>
+        <item>@font/cantata_one</item>
+        <item>@font/dancing_script_bold</item>
+        <item>@font/fira_sans_extra_condensed_medium</item>
+        <item>@font/julius_sans_one</item>
+    </array>
+</resources>

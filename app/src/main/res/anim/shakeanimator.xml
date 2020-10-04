@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate
+
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration = "300"
+    android:fromDegrees="-30"
+    android:pivotX="30%"
+    android:pivotY="30%"
+    android:repeatCount="1"
+    android:repeatMode= "reverse"
+    android:toDegrees="30"
+
+
+    tools:ignore="MissingDefaultResource" />
